@@ -1,0 +1,104 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Lophiius>Short-Bodied Goosefish</Lophiius>
+      <Lophiius_stt>Short-Bodied Goosefish</Lophiius_stt>
+      <Lophiius_lower>the Short-Bodied Goosefish</Lophiius_lower>
+      <Lophiius_ltt>
+         <color r="255" g="248" b="178">
+            <b>Short-Bodied Goosefish</b>
+         </color>
+         <br/>
+         Click to select and then place a Short-Bodied Goosefish.
+      </Lophiius_ltt>
+</entityname>
+<zoopedia_lophiius>
+ <entry>Short-Bodied Goosefish</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Lophiius/Lophiius_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255"><br/>Arrecife</color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Monte Bolca<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Bony fish <i>(Osteichtyes)</i><br/>Order: Lophiius and relatives <i>(Lophiiformes)</i><br/>Family: <i>Lophiidae</i><br/>Genus:  <i>Lophius</i><br/>Species: <i>L. Brachysomus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Short-Bodied Goosefish Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is the first species of the genus Lophius, was size 15 cm and lived in middle Eocene.</color>    
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Short-Bodied Goosefish in challenge or campaign games, you must earn a 2-star zoo fame rating for your zoo. 
+   </color>
+   <p/>The Short-Bodied Goosefish is the first monkfish of the genus Lophius, and appeared in the Eocene. Short-Bodied Goosefish is called because the body had short, logically. The proportions of the tail were lower to those of current monkfish, and the rest of the body was identical to the current angler. It was small, only average 15 centimeters from snout to tail tip. It is known for its fossils have been found in Monte Bolca.
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from <color r="0" g="0" b="0">Wikipedia</color>Imago.
+  </cell>
+ </text>
+</zoopedia_lophiius>
+</ZT2Strings>
